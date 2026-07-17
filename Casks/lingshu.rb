@@ -1,8 +1,8 @@
 cask "lingshu" do
-  version "0.1.0-7"
-  sha256 "daaf69d7eb1e5fc76d6fdf9a9c2216a3ba87aea7b90fef4c30fdff3b647b2518"
+  version "0.1.0-8"
+  sha256 "a8b99ea48b345f25af416616ea5d6dd37f4ff88114e9677b9cc6a27d36dd87e4"
 
-  url "https://github.com/RoyZhao1991/LingShu/releases/download/v0.1.0-alpha.4/LingShu-#{version}-macOS-universal.dmg"
+  url "https://github.com/RoyZhao1991/LingShu/releases/download/v0.1.0-alpha.5/LingShu-#{version}-macOS-universal.dmg"
   name "LingShu"
   name "灵枢"
   desc "AI agent that turns goals into verified deliverables"
